@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Social Media Accounts :</h3>
 
 ###
 
@@ -69,5 +69,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="50" height="25" alt="visualstudio logo"  />
   </a>
 </div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/markalfonso"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markalfonso" /></a></p><br><br>
 
 ###

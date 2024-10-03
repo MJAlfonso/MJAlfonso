@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Mark John Alfonso from Philippines.<br><br>- 📚 I’m taking Bachelor of Science in Information Technology.<br>- ⚡ In my free time, I watch series and read books.</p>
+<p align="left">I'm Mark John Alfonso from Philippines.<br><br>- 📚 I’m currently taking Bachelor of Science in Information Technology program.<br>- ⚡ In my free time, I watch series and read books.</p>
 
 ###
 
